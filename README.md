@@ -1,6 +1,7 @@
 # app_tracking
 
-A new Flutter project.
+Esta es una aplicación móvil la cual tiene por funcionalidad el mostrar y guardar las latitudes y longitudes actuales del dispositivo móvil.
+El apk generado lo podrás descargar de la siguiente liga: https://drive.google.com/file/d/1w28xmPHGtcO0wM7Kwaj6RygEK_fYtlTW/view?usp=drive_link
 
 ## Getting Started
 
